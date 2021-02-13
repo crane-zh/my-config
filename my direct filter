@@ -1,4 +1,4 @@
-#使用中继的自用分流规则
+#分流规则
 host-suffix, rujiaoyi.cc, direct
 host-suffix, asasmr.net, direct
-
+host-suffix, 5280bt.net, direct
