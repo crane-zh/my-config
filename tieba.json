@@ -3,4 +3,4 @@
     "task": [
         "10 0 * * * 
 https://raw.githubusercontent.com/crane-zh/my-config/main/tieba.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png, enable=true",
-   
+     ］
