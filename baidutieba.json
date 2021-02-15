@@ -2,6 +2,6 @@
     "name": "crane-zh",
     "description":"https://github.com/crane-zh/my-config",
     "task": [
-        "0 9 * * * https://raw.githubusercontent.com/crane-zh/my-config/main/tieba.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png, enabled=true",
+        "10,11 0 * * * https://raw.githubusercontent.com/crane-zh/my-config/main/tieba.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png, enabled=true",
     ]
 }
