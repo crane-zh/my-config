@@ -1,3 +1,8 @@
+#qq看点广告过滤发热
+host, rpt.gdt.qq.com, direct
+host, adsmind.gdtimg.com, direct
+host, pgdt.gtimg.cn, direct
+
 #分流规则
 host-suffix, rujiaoyi.cc, direct
 host-suffix, asasmr.net, direct
